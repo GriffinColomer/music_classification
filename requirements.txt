@@ -1,3 +1,4 @@
-tensorflow[and-cuda]
+torch
 matplotlib
 librosa
+torchvision
