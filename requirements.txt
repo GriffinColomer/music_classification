@@ -1,4 +1,4 @@
-torch
+tensorflow[and-cuda]
 matplotlib
 librosa
-torchvision
+ffmpeg-python
